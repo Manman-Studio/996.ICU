@@ -62,6 +62,9 @@
 ### 知行论坛
 - [健康码你礼貌么](https://zhixing.bjtu.edu.cn/thread-1190329-1-1.html) (出处: 北京交通大学论坛-知行信息交流平台)
 
+### 上海某市民电话录音
+- [录音](https://outsightfiles.oss-ap-southeast-1.aliyuncs.com/2022-Q2/2022-04-04/%E5%BD%95%E9%9F%B3.mp3)
+
 
 原则和目的
 ---
