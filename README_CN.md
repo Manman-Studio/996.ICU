@@ -57,7 +57,7 @@
 - Guido van Rossum, Python之父: [`"996"工作制是不人道的`](https://twitter.com/gvanrossum/status/1111628076801236993).
 
 ### 微信某公众号
-- [一段电话录音，被公开了（值得一听）](https://mp.weixin.qq.com/s/RxV-CC4c0FiyVUlWf7rjwQ)
+- [一段电话录音，被公开了（404）](https://mp.weixin.qq.com/s/RxV-CC4c0FiyVUlWf7rjwQ)
 
 ### 知行论坛
 - [健康码你礼貌么](https://zhixing.bjtu.edu.cn/thread-1190329-1-1.html) (出处: 北京交通大学论坛-知行信息交流平台)
