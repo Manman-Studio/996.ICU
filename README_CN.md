@@ -65,6 +65,9 @@
 ### 上海某市民电话录音
 - [录音](https://outsightfiles.oss-ap-southeast-1.aliyuncs.com/2022-Q2/2022-04-04/%E5%BD%95%E9%9F%B3.mp3)
 
+### 慢慢滑板
+- [感谢大家一路相伴](https://mp.weixin.qq.com/s?__biz=MzUxOTc0ODY4Mw==&mid=2247483681&idx=1&sn=d9bf2ea9345a77c7c11ed4660f574923&chksm=f9f5ac05ce82251379a02b774a5028ceeee5e70ca96717c30aa24493922a2387f9e09806c245&token=238924572&lang=zh_CN#rd)
+
 
 原则和目的
 ---
@@ -123,7 +126,7 @@
 Issues is coming back!
 ---
 
-**慢慢**决定重开 Issues
+**慢慢**重开 Issues
 
 License
 ---
