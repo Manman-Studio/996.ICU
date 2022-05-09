@@ -67,6 +67,7 @@
 
 ### 慢慢滑板
 - [感谢大家一路相伴](https://mp.weixin.qq.com/s?__biz=MzUxOTc0ODY4Mw==&mid=2247483681&idx=1&sn=d9bf2ea9345a77c7c11ed4660f574923&chksm=f9f5ac05ce82251379a02b774a5028ceeee5e70ca96717c30aa24493922a2387f9e09806c245&token=238924572&lang=zh_CN#rd)
+- [fxxk 996](https://mp.weixin.qq.com/s?__biz=MzUxOTc0ODY4Mw==&mid=2247483686&idx=1&sn=5f652c9059be66a48a2a767fc336c01d&chksm=f9f5ac02ce82251483bb45bd8e54a89d77b7c51fd4518e764a134a5cfcf49a646a5303d953cf&token=238924572&lang=zh_CN#rd)
 
 
 原则和目的
